@@ -1,0 +1,14 @@
+Git is a free, open-source version control system (VCS). 
+while GitHub is a cloud-based platform that hosts Git repositories and facilitates collaboration.
+portfolio deploy
+git version cmd (git -- version)
+pages are static in GitHub(it will not be changed, example:w3 schools,articles)
+dynamic(different user names)
+GitHub is dynamic site
+git branch command is used to check how many branches present in GitHub
+git add is used for adding the files in GitHub
+git is a local control where as GitHub is a remote control
+git is used for offline, github is for online
+push -u origin master (used to push files into GitHub)
+git commit -m "my first commit" how to commit files
+
