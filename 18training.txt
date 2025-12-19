@@ -1,0 +1,7 @@
+git clone-download
+git spork-changes
+how create a branches in GitHub
+branches-it is a separate version of the code in repository changes in the code without affecting main code
+collaborations
+pull request-merge sets from one branch to another branch
+how to download GitHub repository in github
