@@ -1,0 +1,27 @@
+AI- DATA + ALGORITHMS
+>Types of ai
+narrow ai - works on only one task
+super ai - integers beyond the human
+AGI - Artificial general intelligence 
+
+Gen AI 
+Generative AI is a type of artificial intelligence that creates new, original content like text, images, music, and code by learning patterns from massive datasets
+
+>Diff btw ai and ml
+AI is the broad concept of machines mimicking human intelligence
+ML is a subset of AI where systems learn from data
+
+python 
+>data types
+-tuple -->To store fixed data like coordinates, days, months 
+-list -->collection of data like add to cart,mutable
+-dictionary -->to store data in key–value pairs, keys are immutable
+-set -->unordered, Mutable,unique keys
+free code camp -->python certification 
+>what is API
+-->Application Programming Interface is a set of rules, protocols, and tools that allows different software applications to communicate with each other.mediater between two servers
+>HTTP REQUESTS
+-->GET, PUT, POST, DELETE
+
+
+
